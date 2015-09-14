@@ -1,5 +1,5 @@
 {
-  "name": "ember-component-css",
+  "name": "ember-pod-css",
   "dependencies": {
     "jquery": "^1.11.1",
     "ember": "1.13.0-beta.1",

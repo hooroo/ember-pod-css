@@ -105,7 +105,7 @@ function monkeyPatch(EmberApp) {
 }
 
 module.exports = {
-  name: 'ember-component-css',
+  name: 'ember-pod-css',
 
   // Gets the path to the pods folder
   podDir: function() {

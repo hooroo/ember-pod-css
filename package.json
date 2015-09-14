@@ -1,5 +1,5 @@
 {
-  "name": "ember-component-css",
+  "name": "ember-pod-css",
   "version": "0.1.6",
   "description": "An Ember CLI addon which allows you to specify CSS inside of component pod directories",
   "directories": {
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ebryn/ember-component-css.git"
+    "url": "https://github.com/ebryn/ember-pod-css.git"
   },
   "engines": {
     "node": ">= 0.10.0"
