@@ -1,10 +1,10 @@
 # ember-pod-css
 
-Based on ![Ember Component CSS](https://github.com/ebryn/ember-component-css)
+Based on [Ember Component CSS](https://github.com/ebryn/ember-component-css)
 
 ## Installation
 
-Add `"ember-pod-css": git@github.com:hooroo/ember-pod-css.git` to your bower.json and run `bower install`
+Add `"ember-pod-css": "git@github.com:hooroo/ember-pod-css.git"` to your bower.json and run `bower install`
 
 ## Usage
 
